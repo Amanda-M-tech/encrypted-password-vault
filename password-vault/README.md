@@ -47,3 +47,5 @@ src/
 
 ## Disclaimer
 Educational project. For real-world use, choose an audited password manager.
+
+Verification code: WTC-HWB2T9YL
